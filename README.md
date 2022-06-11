@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Omeganyks
-- 👀 I’m interested in, maily, Mathemathics, Physics and programation
-- 🌱 I’m currently learning julia.
+- 👀 I’m interested in, maily, Mathemathics, Physics and programmation
+- 🌱 I’m currently learning julï̇a and Rust.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
