@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Omeganyks
-- 👀 I’m interested in, maily, Mathemathics, Physics and programmation
+- 👀 I’m mainly interested in, Mathemathics, Physics and programmation
 - 🌱 I’m currently learning julï̇a and Rust.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
